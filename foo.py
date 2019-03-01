@@ -1,2 +1,3 @@
 def bar():
   return "bar"
+
