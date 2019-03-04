@@ -1,2 +1,2 @@
 def bar():
-  return "barz"
+  return "baz"
