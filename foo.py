@@ -1,3 +1,3 @@
 def bar():
-  return "bazz"
+  return "baz"
 
