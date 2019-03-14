@@ -1,3 +1,4 @@
 def bar():
   return "b"
 
+
