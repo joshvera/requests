@@ -11,6 +11,7 @@ import chardet
 
 import sys
 
+
 # -------
 # Pythons
 # -------
